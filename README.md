@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vijendrasaini1922
 - 👀 I’m highly interested in programming
-- 🌱 I’m currently learning deep learning and algos in c language
+- 🌱 Known Languages : C++, PYTHON, KOTLIN, XML, HTML, CSS
 - 💞️ I’m looking to collaborate on open source
 - 📫 How to reach me = via email : virajsaini0@gmail.com
 
