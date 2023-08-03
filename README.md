@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @vijendrasaini1922
+- 👋 Hi, I’m Vijendra Saini
 - 👀 I’m highly interested in programming
-- 🌱 Known Languages : C++, PYTHON, KOTLIN, XML, HTML, CSS
-- 💞️ I’m looking to collaborate on open source
+- 🌱 Skills : C++, PYTHON, OOPS || DJANGO, SQL, FLUTTER (BASICS), HTML, CSS, BOOTSTRAP || MACHINE LEARNING, DEEP LEARNING, NLP, CV  
 - 📫 How to reach me = via email : virajsaini0@gmail.com
 
 <!---
