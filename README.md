@@ -60,7 +60,7 @@ A social media application with user authentication and features to create, like
 
 - **Email**: virajsaini0@gmail.com
 - **GitHub**: vijendrasaini1922
-- **LinkedIn**: Vijendra Saini
+- **LinkedIn**: [Vijendra Saini](https://www.linkedin.com/in/vijendra-saini/)
 
     </td>
     <td valign="top">
