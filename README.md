@@ -46,11 +46,8 @@ This project is a full-stack web application that allows users to download audio
 
 #### Technologies Used
 
-- Next.js
-- React
-- Django
-- PyTube
-- PyDub
+- Next.js, React,  Django
+- PyTube, PyDub
 
 ### Advance Expense Tracker App
 
@@ -76,15 +73,13 @@ A social media application with features like register, login, create post, like
 
 #### Techs Used
 
-- Django
-- HTML
-- Ajax
+- Django, HTML, Ajax, JS
 
 ## 📫 Let's Connect
 
 - **Email**: virajsaini0@gmail.com
 - **GitHub**: vijendrasaini1922
-- **LinkedIn**: Vijendra Saini
+- **LinkedIn**: [Vijendra Saini](https://www.linkedin.com/in/vijendra-saini/)
 
 ## 🎮 Interests
 
