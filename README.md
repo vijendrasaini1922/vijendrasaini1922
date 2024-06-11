@@ -33,53 +33,37 @@ I'm a passionate and driven **Software Engineer** with a knack for solving compl
 
 ### YouTube Video to Audio Downloader
 
-This project is a full-stack web application that allows users to download audio from YouTube videos. It uses Next.js for the frontend and Django for the backend. Users can provide a YouTube video URL and select the desired quality to download the corresponding audio file.
+A full-stack web app to download audio from YouTube videos, using Next.js for the frontend and Django for the backend. Users can enter a YouTube URL and select audio quality for download.
 
-#### Features
-
-- Input field to enter YouTube video URL
-- Dropdown to select quality (360p, 480p, 720p, 1080p)
-- Download button to start the download process
-- Loading indicator while processing the download request
-- Error message display for invalid URLs or quality selection
-- Responsive design for mobile and desktop
-
-#### Technologies Used
-
-- Next.js, React,  Django
-- PyTube, PyDub
+**Technologies Used:** Next.js, React, Django, PyTube, PyDub  
+**Features:** Input field, quality selection, download button, loading indicator, error handling, responsive design.
 
 ### Advance Expense Tracker App
 
-This Expense Tracker web application allows users to manage their expenses efficiently. Users can add, edit, and delete expenses, view total expenses for different time periods, and see expenses categorized by different categories. The app provides visual representations of expenses through charts for better understanding and analysis.
+A web app for efficient expense management with features to add, edit, and delete expenses, and view categorized expenses with charts. Users can track expenses over different periods.
 
-#### Features
-
-- Expense Management: Add, edit, and delete expenses easily.
-- Total Expense Summary: View total expenses for the last 7 days, 30 days, and 365 days.
-- Top Three Dates: See the top three dates with the highest expenses.
-- Categorical Sums: View expenses categorized by different categories.
-- Charts: Visual representation of expenses using charts.
-
-#### Technologies Used
-
-- Frontend: React.js, Chart.js, Tailwind CSS
-- Backend: Django, Django REST framework
-- Database: SQLite
+**Technologies Used:** React.js, Chart.js, Tailwind CSS, Django, Django REST framework, SQLite  
+**Features:** Expense management, total expense summary, top three dates, categorical sums, charts.
 
 ### Pricha-Web-App
 
-A social media application with features like register, login, create post, like post, comment, change password, and reset-password. It also has restricted authorization setup.
+A social media application with user authentication and features to create, like, and comment on posts. Includes change password and reset-password functionalities with restricted authorization.
 
-#### Techs Used
+**Technologies Used:** Django, HTML, Ajax, JS  
+**Features:** Register, login, create post, like post, comment, change password, reset password.
 
-- Django, HTML, Ajax, JS
+<table>
+  <tr>
+    <td valign="top">
 
 ## 📫 Let's Connect
 
 - **Email**: virajsaini0@gmail.com
 - **GitHub**: vijendrasaini1922
-- **LinkedIn**: [Vijendra Saini](https://www.linkedin.com/in/vijendra-saini/)
+- **LinkedIn**: Vijendra Saini
+
+    </td>
+    <td valign="top">
 
 ## 🎮 Interests
 
@@ -87,5 +71,9 @@ A social media application with features like register, login, create post, like
 - Traveling
 - Playing Chess
 - Playing Cricket
+
+    </td>
+  </tr>
+</table>
 
 Thanks for visiting my profile!
